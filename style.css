@@ -1,0 +1,210 @@
+* {
+  text-align: center;
+}
+
+body {
+    background-color: rgb(104, 103, 103);
+}
+
+h1 {
+  text-align: center;
+  justify-content: center;
+  color: whitesmoke;
+  background-color: black;
+  padding: 1%;
+}
+
+h2{
+  font-size: 200%;
+  color: white;
+  
+}
+
+h3{
+  font-size: 200%;
+  color: white;
+}
+
+h4{
+  color: rgb(193, 3, 3);
+  background-color: azure;
+  font-size: 300%;
+
+  border-radius: 5px;
+  border-style: outset;
+}
+
+h5{
+  font-size: large;
+  color: white;
+}
+
+.game{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.choiceDisplay{
+  color:black;
+  font-size: 50px;
+}
+
+#👊{
+    
+    align-self: center;
+    background-color: rgba(209, 226, 230, 0.995);
+    size-adjust: 100%;
+    size: 100px;
+
+   
+    align-self: center;
+    color: white;
+    padding: 10px;
+    font-size: 750%;
+}
+
+#🖐{
+    
+    align-self: center;
+    background-color: rgba(216, 229, 240, 0.967);
+    padding: 10px;
+    font-size: 750%;
+}
+
+#✌{
+    background-color: rgb(207, 236, 238);
+    align-self: center;
+    color: white;
+    
+    align-self: center;
+    color: white;
+    padding: 10px;
+    font-size: 750%;
+}
+
+#button {
+  align-self: center;
+  size: 50px;
+  padding-left: 15px;
+  size-adjust: 100%;
+}
+
+
+
+
+/*
+html {
+    background: linear-gradient(to bottom, yellow 0%, floralwhite 100%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+  
+    height: 100%;
+  }
+  
+  h1 {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    text-align: center;
+  }
+  
+  h2 {
+    text-align: center;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  }
+  
+  #Rock {
+    color: transparent; 
+    border: 0;
+    background-image: url(http://flatredball.com/migrated_media/Rock4.png);
+    height: 128px;
+    width: 128px;
+    background-color: transparent;
+  }
+  
+  #Paper {
+    color: transparent;
+    border: 0;
+    background-image: url(https://findicons.com/files/icons/914/cemagraphics/256/old_paper.png);
+    height: 256px;
+    width: 256px;
+    background-color: transparent;
+  }
+  
+  #Scissors {
+    color: transparent;
+    border: 0;
+    background-image: url(https://images.vexels.com/media/users/3/194600/isolated/lists/961188d36e6534023df590e53120d99d-school-scissors-color-doodle.png);
+    height: 256px;
+    width: 256px;
+    background-color: transparent;
+  }
+  
+  h5 {
+    text-align: center;
+  }
+  
+  h3 {
+    text-align: center; 
+  }
+  
+  .button-box {
+   text-align:center; 
+    
+  }
+  
+  @-webkit-keyframes Floatingx{
+      from {-webkit-transform:translate(0, 0px);}
+      65% {-webkit-transform:translate(0, 15px);}
+      to {-webkit-transform: translate(0, -0px);    }    
+  }
+  
+  
+   #Rock{
+      -webkit-animation-name: Floatingx;
+      -webkit-animation-duration: 5s;
+      -webkit-animation-iteration-count: infinite;
+      -webkit-animation-timing-function: ease-in-out;
+      -moz-animation-name: Floating;
+      -moz-animation-duration: 5s;
+      -moz-animation-iteration-count: infinite;
+      -moz-animation-timing-function: ease-in-out;
+      margin-left: 30px;
+      margin-top: 5px;
+  
+  }
+  
+  #Paper{
+      -webkit-animation-name: Floatingx;
+      -webkit-animation-duration: 3s;
+      -webkit-animation-iteration-count: infinite;
+      -webkit-animation-timing-function: ease-in-out;
+      -moz-animation-name: Floating;
+      -moz-animation-duration: 5s;
+      -moz-animation-iteration-count: infinite;
+      -moz-animation-timing-function: ease-in-out;
+      margin-left: 30px;
+      margin-top: 5px;
+  
+  }
+  
+  #Scissors{
+      -webkit-animation-name: Floatingx;
+      -webkit-animation-duration: 4s;
+      -webkit-animation-iteration-count: infinite;
+      -webkit-animation-timing-function: ease-in-out;
+      -moz-animation-name: Floating;
+      -moz-animation-duration: 5s;
+      -moz-animation-iteration-count: infinite;
+      -moz-animation-timing-function: ease-in-out;
+      margin-left: 30px;
+      margin-top: 5px;
+  
+  }
+  
+  */
